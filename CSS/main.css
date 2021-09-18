@@ -111,7 +111,7 @@ input {
   
   .grid-container > div {
     background-color: #FFFFFF;
-    font-color: black;  
+    /* font-color: black;   */
     text-align: center;
     padding: 20px 0;
     font-size: 30px;
