@@ -48,7 +48,7 @@ input {
 #nav-1 {
     margin-left: 200px;
 }
-.container {
+/*.container {
     display: grid;
     grid-template-columns: 2fr 1fr;
     grid-template-rows: 1fr;
@@ -58,7 +58,7 @@ input {
     grid-template-areas:
       "text .";
     height: 500px;
-  }
+  } */
   
   .text {
     display: grid;
@@ -111,8 +111,8 @@ input {
   
   .grid-container > div {
     background-color: #FFFFFF;
-    font-color: black;
+    /* font-color: black;   */
     text-align: center;
     padding: 20px 0;
     font-size: 30px;
-    
+  }
