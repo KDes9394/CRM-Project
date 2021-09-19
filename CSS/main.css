@@ -120,7 +120,7 @@ input {
     margin-right: 30%;
   }
 
-  .grid-container-needs{
+.grid-container-needs{
     margin:auto;
     margin-left:auto;
     margin-right:auto;
@@ -190,4 +190,14 @@ input {
 
 .description-text {
   justify-content: center;
+}
+.dont-have-acct {
+  font-size: 20pt;
+  text-align: center;
+}
+.signinpic {
+  clip-path: ellipse(900px 900px at -5% 10%);
+  flex-direction: column;
+  padding-bottom: 8px;
+
 }
