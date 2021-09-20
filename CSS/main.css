@@ -201,3 +201,19 @@ input {
   padding-bottom: 8px;
 
 }
+.butt {
+  border: 1px outset blue;
+  border-radius: 10px;
+  height:130px;
+  width:120px;
+  cursor:pointer;
+}
+
+.butt:hover {
+  background-color: blue;
+  color:white;
+}
+.landing-buttons {
+  margin-top: 60px;
+  margin-bottom: 100px;
+}
